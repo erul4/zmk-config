@@ -1,0 +1,13 @@
+file_format: "1"
+id: hiled
+name: Hielud Bulu
+type: shield
+url: https://github.com/erul4
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - studio
+siblings:
+  - splitkb_aurora_lily58_left
+  - splitkb_aurora_lily58_right
